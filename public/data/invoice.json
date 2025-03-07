@@ -1,0 +1,33 @@
+[
+    {
+      "id": 1,
+      "store": "Bajaj Store",
+      "date": "2025-03-06",
+      "items": [
+        { "name": "Dell Laptop", "quantity": 1, "regularPrice":48000, "dealPrice":34000, "tax":150 },
+        { "name": "Mouse", "quantity":2, "regularPrice": 50, "dealPrice": 45, "tax": 5 }
+      ]
+    },
+    {
+      "id": 2,
+      "store": "Electronics",
+      "date": "2023-03-05",
+      "items": [
+        { "name": "TV", "quantity": 1, "regularPrice":30000, "dealPrice":29000, "tax":190 },
+        { "name": "Cooler", "quantity": 1, "regularPrice":15000, "dealPrice":12000, "tax":200 }
+
+      ]
+    },
+    {
+      "id": 3,
+      "store": "D-Mart",
+      "date": "2024-10-05",
+      "items": [
+        { "name": "AC", "quantity": 1, "regularPrice":50000, "dealPrice":4000, "tax":190 },
+        { "name": "Mobile", "quantity": 1, "regularPrice":15000, "dealPrice":10000, "tax":100 }
+
+      ]
+    }
+
+  ]
+  

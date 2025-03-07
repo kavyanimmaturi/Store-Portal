@@ -1,0 +1,32 @@
+{
+  "productsList": [
+    {
+      "id": "1",
+      "name": "Realme ",
+      "description": "Smartphone",
+      "price": "8000",
+      "store": "Realme Store"
+    },
+    {
+      "id": "2",
+      "name": "Vivo T3x 5G",
+      "description": "Smartphone",
+      "price": "15000",
+      "store": "SmartPhones Store"
+    },
+    {
+      "id": "3",
+      "name": "SamSung Galaxy",
+      "description": "Smartphone",
+      "price": "10000",
+      "store": "Galaxy Store"
+    },
+    {
+      "id": "4",
+      "name": "Nokia",
+      "description": "Mobile",
+      "price": "800",
+      "store": "Mobiles Store"
+    }
+  ]
+}
