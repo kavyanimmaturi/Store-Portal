@@ -10,8 +10,8 @@ function InvoiceDetail({invoice, setSelectedInvoice}){
   return(
     <div className="invoice-detail">
       <h3>Invoice Details</h3>
-      <p><strong>Store Name: </strong></p>
-      <p><strong>Date: </strong></p>
+      <p><strong>Store Name: </strong>{invoice.store}</p>
+      <p><strong>Date: </strong>{invoice.date}</p>
 
       <table>
         <thead>
